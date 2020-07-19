@@ -33,3 +33,30 @@ RNN has been trained for one epoch and 1000 steps. Table 2 presents the RNN loss
 #  RNN training loss for one epoch and 1000 steps.
 
 ![alt text](https://github.com/Ali-Almalki/World-Model/blob/master/Images/RNN%20training%20loss.PNG)
+
+
+# 4- Training Controller
+It is trained with the evolutionary algorithm known as Covariance Matrix Adaptation-Evolution Strategy (CMA-ES). This algorithm creates the copies of the parameters of this model with multiple random initializations (population), test each population inside environment and record the average score. Controller is trained with following command:
+
+     python 05_train_controller.py car_racing --num_worker 16 --num_worker_trial 2 --num_episode 4 --max_length 1000 --eval_steps 25
+
+
+This figure shows the average score of the controller at each generation of the training. We train the controller for 100 generations.
+![alt text](https://github.com/Ali-Almalki/World-Model/blob/master/Images/Controller.png)
+
+
+Training output of controller with scores is depicted in Table. Each best score is computed after 25 evaluations.
+![alt text](https://github.com/Ali-Almalki/World-Model/blob/master/Images/Controller%20scores.png)
+
+# 4- Results
+The follwoing table presents the comparison of various models on CarRacing-v0 environment. Compared to the Full world model our model achieved a reasonable score in about 26h with smaller dataset.
+2000 rollouts. However, full world model works on 10,000 rollouts and take many days to achieve the score of 906. Table 5 finally presents the loss comparison of LSTM with Bidirectional GRU. 
+# CarRacing-v0 scores using various models
+![alt text](https://github.com/Ali-Almalki/World-Model/blob/master/Images/CarRacing%20Scores.PNG)
+
+# comparison of RNN models: LSTM vs. Bidirectional GRU.
+![alt text](https://github.com/Ali-Almalki/World-Model/blob/master/Images/Comparison.PNG)
+
+
+
+
