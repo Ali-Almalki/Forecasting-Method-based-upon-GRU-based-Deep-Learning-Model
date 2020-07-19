@@ -30,7 +30,7 @@ Now run the RNN training:
 
     python 04_train_rnn.py --N 10000 --steps 1000 --batch_size 100 --model_type GRU --new_model
     
-RNN has been trained for one epoch and 1000 steps. Table 2 presents the RNN loss after training.
+RNN has been trained for one epoch and 1000 steps. The follwoing tble presents the RNN loss after training.
 #### RNN training loss for one epoch and 1000 steps.
 
 ![alt text](https://github.com/Ali-Almalki/World-Model/blob/master/Images/RNN%20training%20loss.PNG)
