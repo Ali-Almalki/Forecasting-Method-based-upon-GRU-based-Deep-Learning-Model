@@ -55,7 +55,7 @@ The follwoing table presents the comparison of various models on CarRacing-v0 en
 # CarRacing-v0 scores using various models
 ![alt text](https://github.com/Ali-Almalki/World-Model/blob/master/Images/CarRacing%20Scores.PNG)
 
-# comparison of RNN models: LSTM vs. Bidirectional GRU.
+# Comparison of RNN models: LSTM vs. Bidirectional GRU.
 ![alt text](https://github.com/Ali-Almalki/World-Model/blob/master/Images/Comparison.PNG)
 
 
