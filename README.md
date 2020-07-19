@@ -20,7 +20,7 @@ Now train the controller using following command:
 # Training Loss for VAE
 ![alt text](https://github.com/Ali-Almalki/World-Model/blob/master/Images/Training_loss_for_VAE.PNG)
 
-# 3- 2.2.	Training RNN (Bidirectional GRU)
+# 3- Training RNN (Bidirectional GRU)
 In this work LSTM model has been replaced with Bidirectional GRU. Input to RNN is compressed vector (z_t) from VAE and actions (a_t) and it output next time-step vector (z_(t+1)). The first step is to generate the data for RNN training using following command:
 
     python 03_generate_rnn_data.py --N 10000
