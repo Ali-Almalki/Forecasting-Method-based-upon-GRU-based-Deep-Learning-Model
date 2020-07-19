@@ -17,4 +17,4 @@ This figure presents the training loss for VAE and Table 1 presents all the thre
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/vae losses.png "Logo Title Text 1")
 
 
-![alt text](https://github.com/Ali-Almalki/World-Model/tree/master/images/src/images/vae losses.PNG
+![alt text](https://github.com/Ali-Almalki/World-Model/tree/master/images/src/common/images/vae losses.PNG)
