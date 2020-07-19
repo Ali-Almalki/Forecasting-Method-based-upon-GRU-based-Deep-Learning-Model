@@ -15,3 +15,4 @@ Now train the controller using following command:
 
 This figure presents the training loss for VAE and Table 1 presents all the three losses.
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/vae losses.png "Logo Title Text 1")
+https://github.com/Ali-Almalki/World-Model/tree/master/images/vae losses.png
