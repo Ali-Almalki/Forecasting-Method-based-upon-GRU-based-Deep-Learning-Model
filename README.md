@@ -17,5 +17,19 @@ Now train the controller using following command:
 
 ![alt text](https://github.com/Ali-Almalki/World-Model/blob/master/Images/vae_losses.PNG)
 
-# Training loss for VAE
+# Training Loss for VAE
 ![alt text](https://github.com/Ali-Almalki/World-Model/blob/master/Images/Training_loss_for_VAE.PNG)
+
+# 3- 2.2.	Training RNN (Bidirectional GRU)
+In this work LSTM model has been replaced with Bidirectional GRU. Input to RNN is compressed vector (z_t) from VAE and actions (a_t) and it output next time-step vector (z_(t+1)). The first step is to generate the data for RNN training using following command:
+
+    python 03_generate_rnn_data.py --N 10000
+    
+Now run the RNN training:
+
+    python 04_train_rnn.py --N 10000 --steps 1000 --batch_size 100 --model_type GRU --new_model
+    
+RNN has been trained for one epoch and 1000 steps. Table 2 presents the RNN loss after training.
+#  RNN training loss for one epoch and 1000 steps.
+
+![alt text](https://github.com/Ali-Almalki/World-Model/blob/master/Images/RNN%20training%20loss.PNG)
