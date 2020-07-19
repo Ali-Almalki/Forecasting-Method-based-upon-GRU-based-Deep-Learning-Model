@@ -13,8 +13,9 @@ Now train the controller using following command:
 
      python 02_train_vae.py --N 500 --time_steps 300 --epochs 20 --new_model
 
-This figure presents the training loss for VAE and Table 1 presents all the three losses.
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/vae losses.png "Logo Title Text 1")
-
+# This figure presents the training loss for VAE and Table 1 presents all the three losses.
 
 ![alt text](https://github.com/Ali-Almalki/World-Model/blob/master/Images/vae_losses.PNG)
+
+# Training loss for VAE
+![alt text](https://github.com/Ali-Almalki/World-Model/blob/master/Images/Training_loss_for_VAE.PNG)
