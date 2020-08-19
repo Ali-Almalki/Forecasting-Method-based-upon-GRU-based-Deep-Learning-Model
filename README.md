@@ -57,4 +57,6 @@ The follwoing table presents the comparison of various models on CarRacing-v0 en
 
 
 
+## Ali Almalki
+
 
