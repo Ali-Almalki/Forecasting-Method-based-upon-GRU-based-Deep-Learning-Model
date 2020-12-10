@@ -1,0 +1,394 @@
+assigning the rank and nworkers 17 13
+assigning the rank and nworkers 17 3
+assigning the rank and nworkers 17 12
+assigning the rank and nworkers 17 7
+assigning the rank and nworkers 17 0
+assigning the rank and nworkers 17 14
+2020-07-16 12:17:40.323761: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-07-16 12:17:40.323852: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-07-16 12:17:40.323910: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ip-172-31-36-246): /proc/driver/nvidia/version does not exist
+2020-07-16 12:17:40.324186: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-07-16 12:17:40.330861: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-07-16 12:17:40.330998: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-07-16 12:17:40.331083: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ip-172-31-36-246): /proc/driver/nvidia/version does not exist
+2020-07-16 12:17:40.331392: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-07-16 12:17:40.332048: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-07-16 12:17:40.332157: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-07-16 12:17:40.332232: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ip-172-31-36-246): /proc/driver/nvidia/version does not exist
+2020-07-16 12:17:40.332536: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+assigning the rank and nworkers 17 9
+assigning the rank and nworkers 17 6
+2020-07-16 12:17:40.340537: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-07-16 12:17:40.340618: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-07-16 12:17:40.340675: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ip-172-31-36-246): /proc/driver/nvidia/version does not exist
+2020-07-16 12:17:40.340953: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-07-16 12:17:40.343463: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2499995000 Hz
+2020-07-16 12:17:40.343777: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2499995000 Hz
+assigning the rank and nworkers 17 1
+2020-07-16 12:17:40.344581: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7f210c000b20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-07-16 12:17:40.344604: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-07-16 12:17:40.344276: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7f8fc4000b20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-07-16 12:17:40.344303: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-07-16 12:17:40.345533: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-07-16 12:17:40.345567: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-07-16 12:17:40.345588: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ip-172-31-36-246): /proc/driver/nvidia/version does not exist
+2020-07-16 12:17:40.345824: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-07-16 12:17:40.345851: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-07-16 12:17:40.345874: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-07-16 12:17:40.345895: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ip-172-31-36-246): /proc/driver/nvidia/version does not exist
+2020-07-16 12:17:40.346217: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+assigning the rank and nworkers 17 2
+2020-07-16 12:17:40.350908: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2499995000 Hz
+2020-07-16 12:17:40.351620: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7ff7f0000b20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-07-16 12:17:40.351650: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-07-16 12:17:40.356426: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2499995000 Hz
+2020-07-16 12:17:40.357161: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7fd1c8000b20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-07-16 12:17:40.357184: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-07-16 12:17:40.354188: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2499995000 Hz
+2020-07-16 12:17:40.354977: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7f5310000b20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-07-16 12:17:40.355002: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-07-16 12:17:40.356821: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2499995000 Hz
+2020-07-16 12:17:40.357554: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7fe6f4000b20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-07-16 12:17:40.357577: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-07-16 12:17:40.362865: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-07-16 12:17:40.362955: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-07-16 12:17:40.363015: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ip-172-31-36-246): /proc/driver/nvidia/version does not exist
+2020-07-16 12:17:40.363287: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-07-16 12:17:40.364609: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-07-16 12:17:40.364690: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-07-16 12:17:40.364751: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ip-172-31-36-246): /proc/driver/nvidia/version does not exist
+2020-07-16 12:17:40.365043: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-07-16 12:17:40.369022: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-07-16 12:17:40.369118: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-07-16 12:17:40.369175: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ip-172-31-36-246): /proc/driver/nvidia/version does not exist
+2020-07-16 12:17:40.369449: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-07-16 12:17:40.371921: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-07-16 12:17:40.372000: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-07-16 12:17:40.372057: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ip-172-31-36-246): /proc/driver/nvidia/version does not exist
+2020-07-16 12:17:40.372333: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-07-16 12:17:40.373932: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2499995000 Hz
+2020-07-16 12:17:40.374741: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7f9eb4000b20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-07-16 12:17:40.374817: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-07-16 12:17:40.375814: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2499995000 Hz
+assigning the rank and nworkers 17 4
+2020-07-16 12:17:40.376606: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7f532c000b20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-07-16 12:17:40.376675: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-07-16 12:17:40.383253: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2499995000 Hz
+2020-07-16 12:17:40.384126: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7f2e68000b20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-07-16 12:17:40.384158: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-07-16 12:17:40.390417: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2499995000 Hz
+assigning the rank and nworkers 17 10
+2020-07-16 12:17:40.394536: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7f8018000b20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-07-16 12:17:40.394577: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-07-16 12:17:40.401516: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-07-16 12:17:40.401684: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-07-16 12:17:40.401772: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ip-172-31-36-246): /proc/driver/nvidia/version does not exist
+2020-07-16 12:17:40.402085: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-07-16 12:17:40.415542: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-07-16 12:17:40.415579: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-07-16 12:17:40.415599: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ip-172-31-36-246): /proc/driver/nvidia/version does not exist
+2020-07-16 12:17:40.415806: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-07-16 12:17:40.418518: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2499995000 Hz
+2020-07-16 12:17:40.419370: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7fcf1c000b20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-07-16 12:17:40.419468: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+assigning the rank and nworkers 17 16
+2020-07-16 12:17:40.437979: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2499995000 Hz
+2020-07-16 12:17:40.438808: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7f91c8000b20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-07-16 12:17:40.438843: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-07-16 12:17:40.453756: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-07-16 12:17:40.453869: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-07-16 12:17:40.453929: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ip-172-31-36-246): /proc/driver/nvidia/version does not exist
+2020-07-16 12:17:40.454225: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-07-16 12:17:40.474407: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2499995000 Hz
+assigning the rank and nworkers 17 15
+2020-07-16 12:17:40.475242: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7f3598000b20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-07-16 12:17:40.475272: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-07-16 12:17:40.503229: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-07-16 12:17:40.503342: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-07-16 12:17:40.503407: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ip-172-31-36-246): /proc/driver/nvidia/version does not exist
+2020-07-16 12:17:40.503687: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-07-16 12:17:40.527709: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2499995000 Hz
+2020-07-16 12:17:40.528585: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7ff314000b20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-07-16 12:17:40.528620: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+assigning the rank and nworkers 17 11
+2020-07-16 12:17:40.639802: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-07-16 12:17:40.639914: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-07-16 12:17:40.639977: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ip-172-31-36-246): /proc/driver/nvidia/version does not exist
+2020-07-16 12:17:40.640280: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-07-16 12:17:40.723620: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2499995000 Hz
+2020-07-16 12:17:40.724517: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7fb1ec000b20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-07-16 12:17:40.724555: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+assigning the rank and nworkers 17 8
+assigning the rank and nworkers 17 5
+2020-07-16 12:17:40.784537: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-07-16 12:17:40.784665: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-07-16 12:17:40.784738: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ip-172-31-36-246): /proc/driver/nvidia/version does not exist
+2020-07-16 12:17:40.785065: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-07-16 12:17:40.788914: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-07-16 12:17:40.789028: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-07-16 12:17:40.789105: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ip-172-31-36-246): /proc/driver/nvidia/version does not exist
+2020-07-16 12:17:40.789403: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-07-16 12:17:40.796066: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2499995000 Hz
+2020-07-16 12:17:40.796893: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7fcfc8000b20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-07-16 12:17:40.796919: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-07-16 12:17:40.815931: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2499995000 Hz
+2020-07-16 12:17:40.816881: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7f6ee0000b20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-07-16 12:17:40.816924: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+(16_w,32)-aCMA-ES (mu_w=9.2,w_1=19%) in dimension 867 (seed=955970, Thu Jul 16 12:17:41 2020)
+('process', 12, 'out of total ', 17, 'started')
+(16_w,32)-aCMA-ES (mu_w=9.2,w_1=19%) in dimension 867 (seed=976215, Thu Jul 16 12:17:41 2020)
+('process', 7, 'out of total ', 17, 'started')
+(16_w,32)-aCMA-ES (mu_w=9.2,w_1=19%) in dimension 867 (seed=1004705, Thu Jul 16 12:17:41 2020)
+('process', 14, 'out of total ', 17, 'started')
+(16_w,32)-aCMA-ES (mu_w=9.2,w_1=19%) in dimension 867 (seed=960028, Thu Jul 16 12:17:41 2020)
+('process', 6, 'out of total ', 17, 'started')
+(16_w,32)-aCMA-ES (mu_w=9.2,w_1=19%) in dimension 867 (seed=976207, Thu Jul 16 12:17:41 2020)
+('process', 3, 'out of total ', 17, 'started')
+(16_w,32)-aCMA-ES (mu_w=9.2,w_1=19%) in dimension 867 (seed=978737, Thu Jul 16 12:17:41 2020)
+('process', 2, 'out of total ', 17, 'started')
+(16_w,32)-aCMA-ES (mu_w=9.2,w_1=19%) in dimension 867 (seed=969761, Thu Jul 16 12:17:41 2020)
+('process', 0, 'out of total ', 17, 'started')
+('training', 'car_racing')
+('population', 32)
+('num_worker', 16)
+('num_worker_trial', 2)
+('num_episode', 4)
+('max_length', 1000)
+(16_w,32)-aCMA-ES (mu_w=9.2,w_1=19%) in dimension 867 (seed=1019004, Thu Jul 16 12:17:41 2020)
+('process', 9, 'out of total ', 17, 'started')
+(16_w,32)-aCMA-ES (mu_w=9.2,w_1=19%) in dimension 867 (seed=994036, Thu Jul 16 12:17:41 2020)
+('process', 13, 'out of total ', 17, 'started')
+(16_w,32)-aCMA-ES (mu_w=9.2,w_1=19%) in dimension 867 (seed=1062163, Thu Jul 16 12:17:41 2020)
+('process', 1, 'out of total ', 17, 'started')
+(16_w,32)-aCMA-ES (mu_w=9.2,w_1=19%) in dimension 867 (seed=1016382, Thu Jul 16 12:17:41 2020)
+('process', 10, 'out of total ', 17, 'started')
+(16_w,32)-aCMA-ES (mu_w=9.2,w_1=19%) in dimension 867 (seed=1022286, Thu Jul 16 12:17:41 2020)
+('process', 16, 'out of total ', 17, 'started')
+(16_w,32)-aCMA-ES (mu_w=9.2,w_1=19%) in dimension 867 (seed=1034329, Thu Jul 16 12:17:41 2020)
+('process', 15, 'out of total ', 17, 'started')
+(16_w,32)-aCMA-ES (mu_w=9.2,w_1=19%) in dimension 867 (seed=1079306, Thu Jul 16 12:17:41 2020)
+('process', 4, 'out of total ', 17, 'started')
+(16_w,32)-aCMA-ES (mu_w=9.2,w_1=19%) in dimension 867 (seed=1062627, Thu Jul 16 12:17:41 2020)
+('process', 8, 'out of total ', 17, 'started')
+(16_w,32)-aCMA-ES (mu_w=9.2,w_1=19%) in dimension 867 (seed=971088, Thu Jul 16 12:17:42 2020)
+('process', 11, 'out of total ', 17, 'started')
+(16_w,32)-aCMA-ES (mu_w=9.2,w_1=19%) in dimension 867 (seed=923951, Thu Jul 16 12:17:42 2020)
+('process', 5, 'out of total ', 17, 'started')
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+('car_racing', (1, 913, -44.67, -93.05, -6.22, 22.7, 0.09895, 1000.0, 1000))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ubuntu/anaconda3/lib/python3.6/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+('car_racing', (2, 1823, -41.78, -82.44, 33.63, 25.74, 0.098, 1000.0, 1000))
+('car_racing', (3, 2737, -26.27, -82.88, 56.6, 33.24, 0.09711, 1000.0, 1000))
+('car_racing', (4, 3651, -16.14, -81.24, 51.05, 32.29, 0.09628, 1000.0, 1000))
+('car_racing', (5, 4564, -14.76, -85.62, 89.61, 36.11, 0.09549, 1000.0, 1000))
+('car_racing', (6, 5482, 5.49, -77.93, 122.96, 51.02, 0.09474, 1000.0, 1000))
+('car_racing', (7, 6401, 8.97, -76.19, 117.5, 42.64, 0.09403, 1000.0, 1000))
+('car_racing', (8, 7321, -6.0, -74.38, 104.75, 42.44, 0.09334, 1000.0, 1000))
+('car_racing', (9, 8239, 13.71, -58.11, 136.89, 49.76, 0.09269, 1000.0, 1000))
+('car_racing', (10, 9154, 44.91, -55.81, 240.26, 64.11, 0.09206, 1000.0, 1000))
+('car_racing', (11, 10074, 65.29, -58.66, 197.08, 59.4, 0.09146, 1000.0, 1000))
+('car_racing', (12, 10992, 80.83, -59.67, 222.13, 79.1, 0.09089, 1000.0, 1000))
+('car_racing', (13, 11906, 107.42, -51.61, 260.32, 81.9, 0.09034, 1000.0, 1000))
+('car_racing', (14, 12823, 118.51, -62.31, 302.31, 91.67, 0.0898, 1000.0, 1000))
+('car_racing', (15, 13741, 152.98, -32.8, 374.72, 95.7, 0.08929, 1000.0, 1000))
+('car_racing', (16, 14659, 213.43, 11.38, 364.83, 88.84, 0.0888, 1000.0, 1000))
+('car_racing', (17, 15578, 243.15, -81.7, 517.63, 122.17, 0.08834, 1000.0, 1000))
+('car_racing', (18, 16494, 261.11, 74.74, 399.2, 98.0, 0.0879, 1000.0, 1000))
+('car_racing', (19, 17418, 298.76, 77.43, 465.83, 101.1, 0.08747, 1000.0, 1000))
+('car_racing', (20, 18335, 319.86, 64.37, 521.53, 116.92, 0.08704, 1000.0, 1000))
+('car_racing', (21, 19259, 361.04, 71.57, 510.92, 109.79, 0.08663, 1000.0, 1000))
+('car_racing', (22, 20180, 387.91, -2.05, 533.08, 128.48, 0.08623, 1000.0, 1000))
+('car_racing', (23, 21103, 378.53, 10.07, 560.65, 128.46, 0.08585, 1000.0, 1000))
+('car_racing', (24, 22025, 454.18, 138.31, 615.14, 102.29, 0.0855, 1000.0, 1000))
+('car_racing', (25, 22951, 421.5, 78.01, 612.75, 138.62, 0.08516, 1000.0, 1000))
+[609.7203 604.5324 598.7002 655.0332 572.5459 603.6061 643.6483 572.1762
+ 605.2062 649.8163 655.6711 640.4114 627.6751 608.8697 439.9314 557.212
+ 609.1766 504.9505 588.4242 581.3144 603.9907 611.4601 509.0149 609.3899
+ 611.2165 669.9599 640.4109 591.4792 552.7747 602.3631 637.1637 574.0458]
+[598.184090625]
+('improvement', 25, 642.8540906249999, 'curr', 598.184090625, 'prev', -44.67, 'best', 598.184090625)
+('car_racing', (26, 24804, 482.34, 140.99, 651.73, 97.93, 0.08482, 1000.0, 1000))
+('car_racing', (27, 25727, 518.26, 304.25, 677.97, 94.19, 0.08451, 1000.0, 1000))
+('car_racing', (28, 26651, 514.43, 185.04, 745.3, 119.72, 0.08419, 1000.0, 1000))
+('car_racing', (29, 27576, 517.51, 291.07, 698.72, 111.05, 0.08389, 997.95, 1000))
+('car_racing', (30, 28504, 523.69, 115.85, 714.75, 143.34, 0.08359, 1000.0, 1000))
+('car_racing', (31, 29426, 573.97, 180.61, 817.32, 132.97, 0.08329, 1000.0, 1000))
+('car_racing', (32, 30352, 544.61, 188.79, 768.6, 129.7, 0.08301, 998.64, 1000))
+('car_racing', (33, 31277, 581.66, 397.64, 776.85, 91.92, 0.08273, 999.05, 1000))
+('car_racing', (34, 32211, 624.67, 370.6, 857.53, 118.28, 0.08247, 996.85, 1000))
+('car_racing', (35, 33138, 629.44, 300.21, 818.56, 118.94, 0.08221, 996.92, 1000))
+('car_racing', (36, 34067, 629.99, 432.39, 828.17, 92.52, 0.08197, 997.49, 1000))
+('car_racing', (37, 34992, 622.57, 247.14, 826.37, 120.29, 0.08173, 996.67, 1000))
+('car_racing', (38, 35920, 685.85, 409.51, 843.49, 98.91, 0.08149, 997.07, 1000))
+('car_racing', (39, 36848, 662.55, 351.12, 851.33, 124.29, 0.08126, 994.83, 1000))
+('car_racing', (40, 37776, 725.78, 503.49, 880.38, 112.74, 0.08103, 993.58, 1000))
+('car_racing', (41, 38704, 682.62, 323.52, 879.27, 143.8, 0.08081, 995.38, 1000))
+('car_racing', (42, 39636, 648.34, 287.27, 843.7, 151.16, 0.08059, 993.04, 1000))
+('car_racing', (43, 40567, 684.37, 238.71, 876.97, 151.79, 0.08039, 991.71, 1000))
+('car_racing', (44, 41503, 680.81, 199.23, 873.51, 136.4, 0.08019, 996.6, 1000))
+('car_racing', (45, 42430, 691.69, 364.91, 858.89, 109.02, 0.08, 996.78, 1000))
+('car_racing', (46, 43348, 687.75, 361.73, 867.98, 130.16, 0.07981, 994.53, 1000))
+('car_racing', (47, 44280, 733.78, 259.26, 889.74, 129.78, 0.07961, 993.39, 1000))
+('car_racing', (48, 45214, 711.38, 329.07, 865.56, 128.18, 0.07943, 993.85, 1000))
+('car_racing', (49, 46132, 718.1, 315.48, 893.43, 134.05, 0.07924, 983.25, 1000))
+('car_racing', (50, 47065, 716.08, 492.24, 899.88, 103.02, 0.07906, 986.52, 1000))
+[731.3488 691.3447 873.3269 788.2073 873.4383 760.4827 751.1508 640.7742
+ 852.2948 876.9478 876.7884 899.3352 830.0409 792.7526 655.0949 716.7352
+ 838.5431 670.0907 781.9022 767.7552 848.9815 774.4211 762.9982 881.5327
+ 816.5667 897.2457 878.2793 884.037  810.0727 864.5436 871.4814 784.4701]
+[804.468271875]
+('improvement', 50, 206.28418125000007, 'curr', 804.468271875, 'prev', 598.184090625, 'best', 804.468271875)
+('car_racing', (51, 48960, 704.52, 254.06, 900.8, 146.44, 0.07888, 986.56, 1000))
+('car_racing', (52, 49874, 713.17, 359.29, 888.22, 130.44, 0.07871, 984.63, 1000))
+('car_racing', (53, 50790, 760.66, 350.09, 899.79, 127.88, 0.07855, 981.17, 1000))
+('car_racing', (54, 51726, 735.17, 194.76, 903.35, 142.76, 0.07839, 984.75, 1000))
+('car_racing', (55, 52685, 727.56, 485.72, 894.54, 104.97, 0.07823, 980.55, 1000))
+('car_racing', (56, 53614, 758.48, 519.25, 904.62, 89.86, 0.07807, 986.14, 1000))
+('car_racing', (57, 54549, 792.99, 570.4, 907.62, 82.33, 0.07793, 970.84, 1000))
+('car_racing', (58, 55485, 737.92, 435.87, 891.25, 105.75, 0.07779, 975.01, 1000))
+('car_racing', (59, 56420, 752.51, 365.24, 881.55, 112.49, 0.07764, 981.6, 1000))
+('car_racing', (60, 57349, 784.81, 614.63, 897.12, 80.73, 0.07751, 982.01, 1000))
+('car_racing', (61, 58275, 777.47, 353.65, 882.44, 104.98, 0.07738, 977.14, 1000))
+('car_racing', (62, 59200, 773.83, 559.28, 901.81, 89.9, 0.07726, 977.46, 1000))
+('car_racing', (63, 60148, 780.67, 483.61, 882.35, 101.1, 0.07715, 988.07, 1000))
+('car_racing', (64, 61085, 811.67, 465.6, 893.79, 80.8, 0.07705, 975.29, 1000))
+('car_racing', (65, 62029, 771.67, 602.47, 891.36, 90.32, 0.07695, 979.62, 1000))
+('car_racing', (66, 62970, 818.3, 650.96, 892.58, 56.82, 0.07686, 982.89, 1000))
+('car_racing', (67, 63917, 803.46, 612.41, 900.61, 79.22, 0.07677, 977.29, 1000))
+('car_racing', (68, 64847, 820.04, 281.6, 903.67, 121.81, 0.0767, 966.1, 1000))
+('car_racing', (69, 65797, 780.13, 514.34, 897.57, 83.92, 0.07662, 977.89, 1000))
+('car_racing', (70, 66732, 772.55, 341.3, 908.24, 134.63, 0.07655, 972.31, 1000))
+('car_racing', (71, 67659, 809.31, 611.43, 904.76, 68.03, 0.07647, 982.95, 1000))
+('car_racing', (72, 68606, 783.87, 345.66, 907.14, 124.62, 0.07641, 971.62, 1000))
+('car_racing', (73, 69551, 819.62, 514.61, 903.96, 79.93, 0.07634, 962.8, 1000))
+('car_racing', (74, 70499, 827.24, 602.63, 907.48, 60.79, 0.07629, 972.34, 1000))
+('car_racing', (75, 71437, 811.91, 586.24, 912.29, 76.74, 0.07624, 968.0, 1000))
+[835.3459 886.5027 876.7628 905.3956 888.5172 872.6433 867.5897 815.4944
+ 894.9126 891.5911 889.1077 912.1249 825.5804 895.2083 813.9465 879.8543
+ 886.2125 812.4616 694.6278 879.1002 884.5942 895.5713 876.4166 816.4022
+ 869.4436 894.7818 887.5014 884.379  827.1348 875.1787 856.4599 813.4534]
+[862.6342625]
+('improvement', 75, 58.16599062499995, 'curr', 862.6342625, 'prev', 804.468271875, 'best', 862.6342625)
+('car_racing', (76, 73302, 822.76, 565.12, 908.06, 81.18, 0.07619, 949.5, 1000))
+('car_racing', (77, 74233, 800.29, 541.42, 903.81, 90.52, 0.07615, 972.98, 1000))
+('car_racing', (78, 75164, 798.9, 386.37, 893.02, 107.51, 0.07611, 967.25, 1000))
+('car_racing', (79, 76103, 825.92, 684.01, 904.08, 56.91, 0.07609, 972.85, 1000))
+('car_racing', (80, 77064, 825.67, 687.36, 900.99, 57.6, 0.07606, 973.03, 1000))
+('car_racing', (81, 78009, 839.26, 743.27, 914.92, 44.95, 0.07604, 971.0, 1000))
+('car_racing', (82, 78951, 824.39, 651.15, 903.86, 65.01, 0.07603, 960.43, 1000))
+('car_racing', (83, 79889, 816.58, 581.77, 908.33, 84.63, 0.07601, 969.39, 1000))
+('car_racing', (84, 80827, 832.4, 685.64, 908.0, 54.48, 0.07598, 956.4, 1000))
+('car_racing', (85, 81768, 826.71, 608.24, 901.54, 66.1, 0.07596, 966.43, 1000))
+('car_racing', (86, 82693, 815.94, 578.99, 897.21, 79.24, 0.07593, 970.03, 1000))
+('car_racing', (87, 83633, 835.16, 739.42, 916.34, 51.2, 0.0759, 964.12, 1000))
+('car_racing', (88, 84579, 796.94, 545.35, 906.96, 93.1, 0.07587, 966.88, 1000))
+('car_racing', (89, 85516, 848.37, 636.59, 910.27, 62.92, 0.07583, 959.41, 1000))
+('car_racing', (90, 86468, 836.24, 605.66, 914.22, 70.83, 0.0758, 969.11, 1000))
+('car_racing', (91, 87429, 824.24, 674.63, 901.05, 53.09, 0.07576, 967.63, 1000))
+('car_racing', (92, 88372, 792.92, 598.13, 909.84, 83.08, 0.07574, 963.73, 1000))
+('car_racing', (93, 89315, 815.71, 630.18, 898.86, 75.94, 0.07572, 960.87, 1000))
+('car_racing', (94, 90254, 795.46, 396.56, 911.64, 115.98, 0.0757, 974.42, 1000))
+('car_racing', (95, 91193, 827.55, 659.01, 895.36, 56.58, 0.07568, 969.86, 1000))
+('car_racing', (96, 92134, 830.84, 663.97, 909.71, 51.97, 0.07565, 969.69, 1000))
+('car_racing', (97, 93079, 828.79, 505.42, 902.96, 87.66, 0.07563, 969.78, 1000))
+('car_racing', (98, 94021, 835.56, 577.6, 911.52, 68.85, 0.0756, 961.78, 1000))
+('car_racing', (99, 94959, 843.21, 652.29, 917.92, 57.17, 0.07557, 959.02, 1000))
+('car_racing', (100, 95906, 814.18, 570.54, 892.12, 74.2, 0.07554, 976.0, 1000))
+[898.4118 870.1913 881.6072 810.983  869.3287 868.1556 810.0132 854.1428
+ 880.2277 884.7522 878.9785 904.8695 873.677  889.8662 856.4639 854.4418
+ 882.7471 815.4913 841.2267 842.1679 881.4559 849.8667 875.9005 877.5957
+ 848.5194 902.73   884.5214 887.4471 865.73   873.0591 749.2824 865.0231]
+[863.402334375]
+('improvement', 100, 0.7680718750000324, 'curr', 863.402334375, 'prev', 862.6342625, 'best', 863.402334375)
+('car_racing', (101, 97774, 848.46, 686.36, 904.01, 51.28, 0.07552, 974.04, 1000))
+('car_racing', (102, 98707, 803.11, 350.26, 898.96, 114.71, 0.0755, 971.87, 1000))
+('car_racing', (103, 99659, 824.84, 576.6, 897.42, 75.74, 0.07549, 965.01, 1000))
+('car_racing', (104, 100603, 822.11, 692.91, 903.78, 55.71, 0.07548, 975.51, 1000))
+('car_racing', (105, 101549, 822.47, 620.74, 897.47, 70.65, 0.07546, 979.35, 1000))
+('car_racing', (106, 102496, 818.71, 606.12, 910.72, 82.58, 0.07544, 971.1, 1000))
+('car_racing', (107, 103442, 836.21, 702.51, 910.7, 55.29, 0.07542, 960.31, 1000))
+('car_racing', (108, 104393, 846.6, 608.02, 913.72, 65.27, 0.07541, 953.7, 1000))
+('car_racing', (109, 105348, 836.28, 722.36, 890.65, 40.42, 0.07539, 972.28, 1000))
+('car_racing', (110, 106295, 823.49, 558.17, 912.44, 80.19, 0.07538, 970.21, 1000))
+('car_racing', (111, 107235, 826.69, 499.15, 903.74, 83.89, 0.07536, 968.99, 1000))
+('car_racing', (112, 108193, 816.49, 421.37, 910.52, 112.74, 0.07535, 952.51, 1000))
+('car_racing', (113, 109140, 832.01, 651.78, 898.03, 57.51, 0.07535, 974.32, 1000))
+[mpiexec@ip-172-31-36-246] Sending Ctrl-C to processes as requested
+[mpiexec@ip-172-31-36-246] Press Ctrl-C again to force abort
+['mpirun', '-np', '17', '/home/ubuntu/anaconda3/bin/python', '05_train_controller.py', 'car_racing', '--num_worker', '16', '--num_worker_trial', '2', '--num_episode', '4', '--max_length', '1000', '--eval_steps', '25']
+Traceback (most recent call last):
+  File "05_train_controller.py", line 526, in <module>
+    if "parent" == mpi_fork(args.num_worker+1): os.exit()
+  File "05_train_controller.py", line 493, in mpi_fork
+    subprocess.check_call(["mpirun", "-np", str(n), sys.executable] +['-u']+ sys.argv, env=env)
+  File "/home/ubuntu/anaconda3/lib/python3.6/subprocess.py", line 306, in check_call
+    retcode = call(*popenargs, **kwargs)
+  File "/home/ubuntu/anaconda3/lib/python3.6/subprocess.py", line 289, in call
+    return p.wait(timeout=timeout)
+  File "/home/ubuntu/anaconda3/lib/python3.6/subprocess.py", line 1477, in wait
+    (pid, sts) = self._try_wait(0)
+  File "/home/ubuntu/anaconda3/lib/python3.6/subprocess.py", line 1424, in _try_wait
+    (pid, sts) = os.waitpid(self.pid, wait_flags)
+KeyboardInterrupt
